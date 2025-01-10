@@ -23,6 +23,10 @@ Moyenne=Somme des coefficientsSomme des (notes × coefficients)​
 
 Le résultat de la moyenne est affiché à l'écran.
 
+Exemple d'Utilisation :
+
+Entrée : 
+
     Combien de notes voulez-vous saisir ? 3  
     Entrez la note 1 : 15  
     Entrez le coefficient de la note 1 : 2  
@@ -30,3 +34,10 @@ Le résultat de la moyenne est affiché à l'écran.
     Entrez le coefficient de la note 2 : 3  
     Entrez la note 3 : 18  
     Entrez le coefficient de la note 3 : 1  
+
+
+Sortie : 
+
+    La moyenne pondérée est : 14,17
+
+
