@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\socis\\Documents\\Projet info\\Moyenne pondérée avec coeff\\Moyenne-Ponderee-et-coeff\\C#.csproj": {}
+    "C:\\Users\\socis\\Documents\\Projet info\\Moyenne pondérée avec coeff\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\socis\\Documents\\Projet info\\Moyenne pondérée avec coeff\\Moyenne-Ponderee-et-coeff\\C#.csproj": {
+    "C:\\Users\\socis\\Documents\\Projet info\\Moyenne pondérée avec coeff\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\socis\\Documents\\Projet info\\Moyenne pondérée avec coeff\\Moyenne-Ponderee-et-coeff\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\socis\\Documents\\Projet info\\Moyenne pondérée avec coeff\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\socis\\Documents\\Projet info\\Moyenne pondérée avec coeff\\Moyenne-Ponderee-et-coeff\\C#.csproj",
+        "projectPath": "C:\\Users\\socis\\Documents\\Projet info\\Moyenne pondérée avec coeff\\C#.csproj",
         "packagesPath": "C:\\Users\\socis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\socis\\Documents\\Projet info\\Moyenne pondérée avec coeff\\Moyenne-Ponderee-et-coeff\\obj\\",
+        "outputPath": "C:\\Users\\socis\\Documents\\Projet info\\Moyenne pondérée avec coeff\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\socis\\AppData\\Roaming\\NuGet\\NuGet.Config"
