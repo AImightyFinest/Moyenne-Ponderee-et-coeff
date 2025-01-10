@@ -1,15 +1,18 @@
 Programme de Calcul de Moyenne Pondérée et de Coefficients en C#
-Description
+
+DESCRIPTION
 
 Ce programme est une application console en C# qui permet à un utilisateur de calculer la moyenne pondérée de plusieurs notes, en tenant compte de leurs coefficients respectifs. Il est idéal pour les étudiants ou enseignants souhaitant effectuer ce type de calcul rapidement.
-Fonctionnalités
+
+
+FONCTIONNALITES
 
 Saisie de plusieurs notes.
 Saisie des coefficients associés à chaque note.
 Calcul automatique de la moyenne pondérée.
 Gestion des erreurs de saisie (entrée invalide, coefficient ou note incorrecte).
 
-Exemple de Fonctionnement
+EXEMPLE DE FONCTIONNEMENT
 
 L'utilisateur entre le nombre de notes qu'il souhaite calculer.
 
@@ -23,7 +26,7 @@ Moyenne=Somme des coefficientsSomme des (notes × coefficients)​
 
 Le résultat de la moyenne est affiché à l'écran.
 
-Exemple d'Utilisation :
+EXEMPLE D'UTILISATION:
 
 Entrée : 
 
