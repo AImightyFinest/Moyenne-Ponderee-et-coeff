@@ -1,0 +1,15 @@
+C:\Users\socis\Documents\Projet info\C#\bin\Debug\net9.0\C#.exe
+C:\Users\socis\Documents\Projet info\C#\bin\Debug\net9.0\C#.deps.json
+C:\Users\socis\Documents\Projet info\C#\bin\Debug\net9.0\C#.runtimeconfig.json
+C:\Users\socis\Documents\Projet info\C#\bin\Debug\net9.0\C#.dll
+C:\Users\socis\Documents\Projet info\C#\bin\Debug\net9.0\C#.pdb
+C:\Users\socis\Documents\Projet info\C#\obj\Debug\net9.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\socis\Documents\Projet info\C#\obj\Debug\net9.0\C#.AssemblyInfoInputs.cache
+C:\Users\socis\Documents\Projet info\C#\obj\Debug\net9.0\C#.AssemblyInfo.cs
+C:\Users\socis\Documents\Projet info\C#\obj\Debug\net9.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\socis\Documents\Projet info\C#\obj\Debug\net9.0\C#.sourcelink.json
+C:\Users\socis\Documents\Projet info\C#\obj\Debug\net9.0\C#.dll
+C:\Users\socis\Documents\Projet info\C#\obj\Debug\net9.0\refint\C#.dll
+C:\Users\socis\Documents\Projet info\C#\obj\Debug\net9.0\C#.pdb
+C:\Users\socis\Documents\Projet info\C#\obj\Debug\net9.0\C#.genruntimeconfig.cache
+C:\Users\socis\Documents\Projet info\C#\obj\Debug\net9.0\ref\C#.dll
