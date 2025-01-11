@@ -20,10 +20,6 @@ Pour chaque note :
 L'utilisateur entre la valeur de la note (entre 0 et 20).
 L'utilisateur entre le coefficient de la note.
 
-Le programme calcule la moyenne pondérée à l'aide de la formule suivante :
-Moyenne=Somme des (notes × coefficients)Somme des coefficients
-Moyenne=Somme des coefficientsSomme des (notes × coefficients)​
-
 Le résultat de la moyenne est affiché à l'écran.
 
 EXEMPLE D'UTILISATION:
